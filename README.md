@@ -53,9 +53,11 @@ The final dataset was then loaded back into Excel for PivotTable analysis and da
 * Total Customers: 1,000
 
 **Revenue by Month**
+
 Tracks monthly revenue across different coffee types and highlights changes in sales performance throughout the year.
 
 **Revenue vs Quantity Sold**
+
 Compares revenue and quantity sold across Arabica, Excelsa, Liberica, and Robusta.
 Key insight: Arabica recorded the highest quantity sold, while Excelsa generated the highest revenue.
 
