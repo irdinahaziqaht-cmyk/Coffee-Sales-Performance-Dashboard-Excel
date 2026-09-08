@@ -26,13 +26,13 @@ The dataset contains three related tables: Orders, Customers, and Products.
 * Selected relevant product information: Coffee Type, Roast Type, Size, and Unit Price
 
 ## Value Standardisation
-Coffee Type
+**Coffee Type**
 Rob ->	Robusta
 Ara	-> Arabica
 Exc	-> Excelsa
 Lib	-> Liberica
 
-Roast Type
+**Roast Type**
 D -> Dark
 L	-> Light
 M	-> Medium
@@ -45,25 +45,25 @@ The calculation was created using Add Column → Standard → Multiply.
 The final dataset was then loaded back into Excel for PivotTable analysis and dashboard development.
 
 ## 📊 Dashboard
-Key Metrics
+**Key Metrics**
 * Total Revenue: $45,134.26
 * Total Quantity Sold: 3,551
 * Total Customers: 1,000
 
-Revenue by Month
+**Revenue by Month**
 Tracks monthly revenue across different coffee types and highlights changes in sales performance throughout the year.
 
-Revenue vs Quantity Sold
+**Revenue vs Quantity Sold**
 Compares revenue and quantity sold across Arabica, Excelsa, Liberica, and Robusta.
 Key insight: Arabica recorded the highest quantity sold, while Excelsa generated the highest revenue.
 
-Customer Loyalty
+**Customer Loyalty**
 48% of customers use a loyalty card, while 52% do not.
 
-Loyalty Card Usage by Year
+**Loyalty Card Usage by Year**
 Shows the number of loyalty card users and non-users across different years.
 
-Interactive Filters
+**Interactive Filters**
 The dashboard can be filtered by:
 * Year
 * Country
@@ -79,20 +79,20 @@ Users can select the relevant filters to drill down into specific sales segments
 * Revenue performance varies across months and coffee types, with some periods showing stronger sales than others.
 
 ## 🛠️ Tools & Skills
-Excel
+**Excel**
 * Power Query & Data Cleaning
 * PivotTables & PivotCharts
 * Slicers & Data Analysis
 * KPI Reporting
 
-Power Query
+**Power Query**
 * Data Cleaning
 * Merge Queries
 * Replace Values
 * Data Transformation
 * Calculated Columns
 
-Analysis
+**Analysis**
 * Sales & Revenue Analysis
 * Product Performance
 * Customer Loyalty
