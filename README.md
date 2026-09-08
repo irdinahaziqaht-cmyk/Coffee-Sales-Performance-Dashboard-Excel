@@ -27,15 +27,15 @@ The dataset contains three related tables: Orders, Customers, and Products.
 
 ## Value Standardisation
 **Coffee Type**
-Rob ->	Robusta
-Ara	-> Arabica
-Exc	-> Excelsa
-Lib	-> Liberica
+- Rob → Robusta
+- Ara → Arabica
+- Exc → Excelsa
+- Lib → Liberica
 
 **Roast Type**
-D -> Dark
-L	-> Light
-M	-> Medium
+- D → Dark
+- L → Light
+- M → Medium
 The Replace Values function in Power Query was used to standardise these categories.
 
 ## Revenue Calculation
