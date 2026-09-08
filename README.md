@@ -4,6 +4,7 @@ Transforming raw coffee sales data into actionable business insights using Excel
 
 ## Overview
 This project analyses coffee sales data using Microsoft Excel and Power Query to understand sales performance, product performance, and customer loyalty.
+
 The project covers data preparation, transformation, analysis, and dashboard development using an interactive Excel dashboard.
 
 
@@ -36,6 +37,7 @@ The dataset contains three related tables: Orders, Customers, and Products.
 - D → Dark
 - L → Light
 - M → Medium
+
 The Replace Values function in Power Query was used to standardise these categories.
 
 ## Revenue Calculation
@@ -70,6 +72,7 @@ The dashboard can be filtered by:
 * Coffee Type
 * Roast Type
 * Size
+
 Users can select the relevant filters to drill down into specific sales segments and compare performance.
 
 ## 💡 Key Business Insights
