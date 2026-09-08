@@ -47,39 +47,24 @@ The calculation was created using Add Column → Standard → Multiply.
 The final dataset was then loaded back into Excel for PivotTable analysis and dashboard development.
 
 ## 📊 Dashboard
-**Key Metrics**
-* Total Revenue: $45,134.26
-* Total Quantity Sold: 3,551
-* Total Customers: 1,000
 
-### Revenue by Month
-Tracks monthly revenue across different coffee types and highlights changes in sales performance throughout the year.
+The interactive dashboard provides an overview of sales performance, product performance, and customer loyalty.
 
-### Revenue vs Quantity Sold
-Compares revenue and quantity sold across Arabica, Excelsa, Liberica, and Robusta.
-Key insight: Arabica recorded the highest quantity sold, while Excelsa generated the highest revenue.
+### Key Metrics
 
-### Customer Loyalty
-48% of customers use a loyalty card, while 52% do not.
-
-### Loyalty Card Usage by Year
-Shows the number of loyalty card users and non-users across different years.
+- **Revenue:** $45,134.26
+- **Quantity Sold:** 3,551
+- **Customers:** 1,000
 
 ### Interactive Filters
-The dashboard can be filtered by:
-* Year
-* Country
-* Coffee Type
-* Roast Type
-* Size
 
-Users can select the relevant filters to drill down into specific sales segments and compare performance.
+**Year · Country · Coffee Type · Roast Type · Size**
 
 ## 💡 Key Business Insights
-* Excelsa generated the highest revenue, despite having lower sales volume than Arabica.
-* Arabica recorded the highest quantity sold with 947 units.
-* 52% of customers are not loyalty card users, indicating room to increase loyalty programme participation.
-* Revenue performance varies across months and coffee types, with some periods showing stronger sales than others.
+
+- **Excelsa** generated the highest revenue despite having lower sales volume than Arabica.
+- **Arabica** recorded the highest quantity sold with 947 units.
+- **52% of customers** do not use a loyalty card, indicating an opportunity to increase loyalty programme participation.
 
 ## 🛠️ Tools & Skills
 **Excel**
